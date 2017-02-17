@@ -1,0 +1,14 @@
+html, body{
+  min-height: 100%;
+}
+
+body {
+	background-image: url("http://static.tumblr.com/56a67ea217ccd2c14af18afb62f3a343/yjro9fs/iFjn7o189/tumblr_static_8zp2is7jnqosws8owc848owoo.png");
+	background-size: cover;
+}
+
+#gameContent {
+	color: #000;
+}
+
+
